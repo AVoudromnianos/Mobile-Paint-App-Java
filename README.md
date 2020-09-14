@@ -9,9 +9,10 @@ Screenshots are from my phone.
 
 ## Disclaimer
  We had help from stackoverflow and other recourses 
- like [medium, Saurel](https://medium.com/@ssaurel/learn-to-create-a-paint-application-for-android-5b16968063f8)
- I dont have the links from the pictures or code. 
+
+ I dont have the links from the pictures or code.
  I will find and upload them.
+ One is [medium, Saurel](https://medium.com/@ssaurel/learn-to-create-a-paint-application-for-android-5b16968063f8)
  
  For learning and fun purposes . If our code looks like yours, contact me!!
  
