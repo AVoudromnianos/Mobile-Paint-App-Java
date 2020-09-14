@@ -8,7 +8,8 @@ Screenshots are from my phone.
 
 
 ## Disclaimer
- We had help from stackoverflow and other recourses. 
+ We had help from stackoverflow and other recourses 
+ like [medium, Saurel](https://medium.com/@ssaurel/learn-to-create-a-paint-application-for-android-5b16968063f8)
  I dont have the links from the pictures or code. 
  I will find and upload them.
  
